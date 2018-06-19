@@ -1,5 +1,5 @@
 # U5_3-3E_I-5_ArduinoBase
-<h2>xCertain university experiment No.I-5 Arudino base</h2>
+<h2>Certain university experiment No.I-5 Arudino base</h2>
 実験No.I-5<br>
 学生実験で作成したArduinoスケッチ晒し．<br>
 某大学の学生はレポート楽になりますね〜w
